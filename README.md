@@ -105,8 +105,6 @@ sql/
 └── mrr-atual-clientes.sql
 ```
 
-As credenciais e informações de conexão com o Supabase não foram incluídas no repositório.
-
 ---
 
 ## Estrutura do repositório
