@@ -147,8 +147,6 @@ O plano em destaque foi definido considerando principalmente:
 * receita relevante;
 * bons níveis de satisfação.
 
-No período analisado, o plano **Pro** se destacou por combinar menor churn, receita próxima ao Enterprise e boa satisfação dos clientes.
-
 ---
 
 ## Eixo temporal dinâmico
