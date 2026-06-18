@@ -194,5 +194,5 @@ Mostra os principais indicadores do plano selecionado:
 
 Os dados foram estruturados em um banco PostgreSQL no Supabase.
 
-As consultas SQL usadas na preparação das tabelas estão na pasta `sql/`. As credenciais e informações de conexão não foram incluídas no repositório.
+As consultas SQL usadas na preparação das tabelas estão na pasta `sql/`.
 
